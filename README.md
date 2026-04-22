@@ -63,13 +63,13 @@ fact_subscriptions (center)
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Report
-![Executive Report](screenshots/page1_executive.png)
+<img width="1274" height="704" alt="Executive Report" src="https://github.com/user-attachments/assets/7a116c36-34c9-464f-b927-fce8407dfa6f" />
 
 ### Page 2 — Customer Segmentation
-![Customer Segmentation](screenshots/page2_segmentation.png)
+<img width="1274" height="710" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/42fbc800-ce14-4ce5-89d7-6d5e376fa330" />
 
 ### Page 3 — Retention Opportunity
-![Retention Opportunity](screenshots/page3_retention.png)
+<img width="1274" height="712" alt="Action Page" src="https://github.com/user-attachments/assets/497de47a-991b-49bc-8d89-c6f950dfcb54" />
 
 ---
 
